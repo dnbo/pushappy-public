@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Your Site Name</title>
+    <link>https://dnbo.github.io/pushappy-public/post/</link>
+    <description>Recent content in Posts on Your Site Name</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv-se</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Sun, 13 May 2018 11:58:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://dnbo.github.io/pushappy-public/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PushAppy rules</title>
+      <link>https://dnbo.github.io/pushappy-public/post/pushappy-rules/</link>
+      <pubDate>Sun, 13 May 2018 11:58:01 +0000</pubDate>
+      
+      <guid>https://dnbo.github.io/pushappy-public/post/pushappy-rules/</guid>
+      <description>Det här är ett helt nytt inlägg från Forestry!</description>
+    </item>
+    
+    <item>
+      <title>Building a theme with Hugossssss</title>
+      <link>https://dnbo.github.io/pushappy-public/post/post-01/</link>
+      <pubDate>Sun, 24 May 2015 18:53:17 +0200</pubDate>
+      
+      <guid>https://dnbo.github.io/pushappy-public/post/post-01/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
