@@ -1,11 +1,11 @@
 +++
 categories = ["Development", "golang"]
 date = "2015-05-24T18:53:17+02:00"
-tags = ["go", "golang", "templates", "themes", "development"]
-title = "Building a theme with Hugo"
 description = "Tutorial to build a Hugo Theme"
-+++
+tags = ["go", "golang", "templates", "themes", "development"]
+title = "Building a theme with Hugossssss"
 
++++
 This tutorial will show you how to create a simple theme in Hugo<!--more-->. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
 
 We'll start with creating a new site with a very basic template. Then we'll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.
