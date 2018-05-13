@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://dnbo.github.io/pushappy-public/about/</loc>
+    <lastmod>2015-05-24T18:51:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnbo.github.io/pushappy-public/blog/</loc>
+    <lastmod>2015-05-24T18:51:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnbo.github.io/pushappy-public/contact/</loc>
+    <lastmod>2015-05-24T18:52:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnbo.github.io/pushappy-public/post/post-01/</loc>
+    <lastmod>2015-05-24T18:53:17+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dnbo.github.io/pushappy-public/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dnbo.github.io/pushappy-public/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="se"
+                href="https://dnbo.github.io/pushappy-public/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dnbo.github.io/pushappy-public/tags/development/</loc>
+    <lastmod>2015-05-24T18:53:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dnbo.github.io/pushappy-public/categories/development/</loc>
+    <lastmod>2015-05-24T18:53:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dnbo.github.io/pushappy-public/tags/go/</loc>
+    <lastmod>2015-05-24T18:53:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dnbo.github.io/pushappy-public/tags/golang/</loc>
+    <lastmod>2015-05-24T18:53:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dnbo.github.io/pushappy-public/categories/golang/</loc>
+    <lastmod>2015-05-24T18:53:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dnbo.github.io/pushappy-public/post/</loc>
+    <lastmod>2015-05-24T18:53:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dnbo.github.io/pushappy-public/tags/</loc>
+    <lastmod>2015-05-24T18:53:17+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dnbo.github.io/pushappy-public/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="se"
+                href="https://dnbo.github.io/pushappy-public/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dnbo.github.io/pushappy-public/tags/templates/</loc>
+    <lastmod>2015-05-24T18:53:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dnbo.github.io/pushappy-public/tags/themes/</loc>
+    <lastmod>2015-05-24T18:53:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dnbo.github.io/pushappy-public/</loc>
+    <lastmod>2015-05-24T18:51:50+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dnbo.github.io/pushappy-public/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="se"
+                href="https://dnbo.github.io/pushappy-public/"
+                />
+  </url>
+  
+</urlset>
